@@ -1,0 +1,37 @@
+.name-poke{
+    display: grid;
+    justify-items: center;
+    padding-top: 1rem;
+}
+
+.poke-photo{
+    display: grid;
+    justify-items: center;
+    margin: 0 auto;
+}
+
+.content-pag{
+    border-radius: 20px;
+    padding-bottom: 1rem;
+}
+
+.poke-photo img{
+    height: 200px;
+
+}
+
+.pok-type{
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    filter: brightness(1.1);
+}
+
+.descri{
+    display: grid;
+    justify-items: center;
+    font-size: 20px;
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin: 1rem .5rem;
+}
